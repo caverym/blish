@@ -1,0 +1,7 @@
+startup = [
+	"rfetch",
+]
+
+path = [
+	"/home/avery/local/bin",
+]
